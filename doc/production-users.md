@@ -10,4 +10,4 @@ https://coreos.com/tectonic
 
 ## Adobe
 
-Environment: AWS
+Environments: AWS, Azure, datacenter
